@@ -1,0 +1,4 @@
+make
+./bin/mps inputs/<input file name> outputs/<output file name>
+
+PS. the program is executable on 40056.

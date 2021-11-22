@@ -1,0 +1,4 @@
+make
+./bin/cb inputs/<input file name> outputs/<output file name>
+
+run on 40058 
